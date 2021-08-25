@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-## Based on https://github.com/addenial/scripts/blob/master/bloodhound-users-json-parser.py
+## Copied from https://github.com/addenial/scripts/blob/master/bloodhound-users-json-parser.py
 
 # encoding=utf8
 import sys
